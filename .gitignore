@@ -1,6 +1,4 @@
-.vscode/
-node_modules/
+data/
 .env
-__pycache__/
 *.pyc
-.DS_Store
+__pycache__/
